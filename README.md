@@ -24,7 +24,7 @@ The `sscr` R package is required for both the snow leopard analysis and the simu
 * `Rcpp`
 * `mvtnorm`
 * `numDeriv`
-* `spatstat`
+* `spatstat.geom`
 * `stat`
 * `TMB`
 
